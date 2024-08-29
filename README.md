@@ -19,10 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/duc minh (mink) dao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="duc minh (mink) dao" height="30" width="40" /></a>
-<a href="https://kaggle.com/minh dao duc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="minh dao duc" height="30" width="40" /></a>
-<a href="https://fb.com/duc minh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="duc minh" height="30" width="40" /></a>
-<a href="https://instagram.com/@dmd_1413" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@dmd_1413" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/duc-minh-dao-452158200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="duc minh (mink) dao" height="30" width="40" /></a>
+<a href="https://kaggle.com/minhdaoduc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="minh dao duc" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100012354243277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="duc minh" height="30" width="40" /></a>
+<a href="https://instagram.com/dmd_1413" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@dmd_1413" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
